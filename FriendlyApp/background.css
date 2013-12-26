@@ -1,0 +1,60 @@
+h1 {
+	font-family: Arial;
+	text-align: center;
+}  /* all for now can safely launch */
+
+body{
+background: -webkit-linear-gradient(top, #f0f0f0 0%,#e7e7e7 47%,#dfdfdf 100%);
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+
+.images_hz {
+overflow: hidden;
+}
+
+.images_hz img {
+float: left;
+margin-right: 135px;
+margin-left: 50px;
+margin-top: 235px;}
+
+
+#MedButton {
+overflow: hidden;
+background-repeat: no-repeat;
+position: fixed;
+left: 40px;
+top: 450px;
+}
+
+
+#GmailButton {
+overflow: hidden;
+background-repeat: no-repeat;
+position: fixed;
+left: 355px;
+top: 450px;
+}
+
+
+#NewsButton {
+overflow: hidden;
+background-repeat: no-repeat;
+position: fixed;
+left: 665px;
+top: 450px;
+}
+
+#PhotoButton {
+overflow: hidden;
+background-repeat: no-repeat;
+position: fixed;
+left: 980px;
+top: 450px;
+
+}
+
+
+
+

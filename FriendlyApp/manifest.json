@@ -1,0 +1,14 @@
+{
+  "name": "FriendlyApp",
+  "description": "Software Solutions For Seniors",
+  "version": "0.1",
+  "permissions" : ["webview", "fullscreen", "<all_urls>",{ "mediaGalleries": ["read", "allAutoDetected"] }],
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "icons": { "128": "chromeappimage128.png" }
+}
+
+
